@@ -1,3 +1,4 @@
+// Hacked version of js-cookie version 3.0.1, with changes for Cordova iOS for WeVote
 /* eslint-disable no-var */
 import assign from './assign.mjs'
 import defaultConverter from './converter.mjs'
